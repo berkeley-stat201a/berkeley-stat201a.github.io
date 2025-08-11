@@ -17,6 +17,7 @@ UC Berkeley
 
 ## Offerings
 
+1. [Fall 2025](fall-2025)
 1. [Fall 2024](fall-2024)
 
 
@@ -28,8 +29,8 @@ Distributions in probability and statistics, central limit theorem, Poisson proc
 
 ## Logistics
 
-Six hours of Lecture and  Three hours of Laboratory per week for 7 weeks.
+Three hours of lecture and two hours of laboratory per week. 
 
 ## Prerequisites
 
-Multivariable calculus, one semester of linear algebra, and Statistics 134 or consent of instructor. 
+Undergraduate probability at the level of Statistics 134, multivariable calculus (at the level of Berkeley’s Mathematics 53) and linear algebra (at the level of Berkeley’s Mathematics 54).
